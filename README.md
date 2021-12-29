@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi there I'm Douglas Yokoyama, working developer!
 <div align="center">
   <a href="https://github.com/douglasyokoyama">
